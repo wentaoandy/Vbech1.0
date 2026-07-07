@@ -1,0 +1,1464 @@
+[
+    {
+        "prompt_en": "alley",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "alley"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/alley-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "amusement park",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "amusement park"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/amusement park-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "aquarium",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "aquarium"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/aquarium-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "arch",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "arch"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/arch-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "art gallery",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "art gallery"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/art gallery-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "bathroom",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "bathroom"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/bathroom-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "bakery shop",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "bakery shop"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/bakery shop-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "ballroom",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "ballroom"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/ballroom-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "bar",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "bar"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/bar-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "barn",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "barn"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/barn-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "basement",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "basement"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/basement-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "beach",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "beach"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/beach-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "bedroom",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "bedroom"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/bedroom-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "bridge",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "bridge"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/bridge-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "botanical garden",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "botanical garden"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/botanical garden-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "cafeteria",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "cafeteria"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/cafeteria-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "campsite",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "campsite"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/campsite-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "campus",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "campus"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/campus-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "carrousel",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "carrousel"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/carrousel-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "castle",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "castle"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/castle-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "cemetery",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "cemetery"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/cemetery-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "classroom",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "classroom"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/classroom-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "cliff",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "cliff"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/cliff-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "crosswalk",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "crosswalk"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/crosswalk-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "construction site",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "construction site"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/construction site-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "corridor",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "corridor"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/corridor-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "courtyard",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "courtyard"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/courtyard-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "desert",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "desert"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/desert-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "downtown",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "downtown"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/downtown-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "driveway",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "driveway"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/driveway-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "farm",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "farm"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/farm-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "food court",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "food court"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/food court-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "football field",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "football field"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/football field-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "forest road",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "forest road"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/forest road-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "fountain",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "fountain"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/fountain-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "gas station",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "gas station"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/gas station-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "glacier",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "glacier"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/glacier-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "golf course",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "golf course"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/golf course-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "indoor gymnasium",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "indoor gymnasium"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/indoor gymnasium-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "harbor",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "harbor"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/harbor-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "highway",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "highway"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/highway-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "hospital",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "hospital"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/hospital-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "house",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "house"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/house-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "iceberg",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "iceberg"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/iceberg-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "industrial area",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "industrial area"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/industrial area-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "jail cell",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "jail cell"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/jail cell-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "junkyard",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "junkyard"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/junkyard-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "kitchen",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "kitchen"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/kitchen-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "indoor library",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "indoor library"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/indoor library-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "lighthouse",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "lighthouse"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/lighthouse-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "laboratory",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "laboratory"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/laboratory-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "mansion",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "mansion"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/mansion-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "marsh",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "marsh"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/marsh-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "mountain",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "mountain"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/mountain-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "indoor movie theater",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "indoor movie theater"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/indoor movie theater-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "indoor museum",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "indoor museum"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/indoor museum-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "music studio",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "music studio"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/music studio-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "nursery",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "nursery"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/nursery-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "ocean",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "ocean"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/ocean-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "office",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "office"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/office-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "palace",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "palace"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/palace-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "parking lot",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "parking lot"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/parking lot-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "pharmacy",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "pharmacy"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/pharmacy-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "phone booth",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "phone booth"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/phone booth-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "raceway",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "raceway"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/raceway-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "restaurant",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "restaurant"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/restaurant-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "river",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "river"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/river-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "science museum",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "science museum"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/science museum-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "shower",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "shower"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/shower-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "ski slope",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "ski slope"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/ski slope-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "sky",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "sky"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/sky-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "skyscraper",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "skyscraper"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/skyscraper-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "baseball stadium",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "baseball stadium"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/baseball stadium-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "staircase",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "staircase"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/staircase-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "street",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "street"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/street-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "supermarket",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "supermarket"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/supermarket-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "indoor swimming pool",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "indoor swimming pool"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/indoor swimming pool-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "tower",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "tower"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/tower-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "outdoor track",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "outdoor track"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/outdoor track-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "train railway",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "train railway"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/train railway-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "train station platform",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "train station platform"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/train station platform-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "underwater coral reef",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "underwater coral reef"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/underwater coral reef-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "valley",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "valley"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/valley-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "volcano",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "volcano"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/volcano-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "waterfall",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "waterfall"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/waterfall-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "windmill",
+        "dimension": [
+            "scene",
+            "background_consistency"
+        ],
+        "auxiliary_info": {
+            "scene": {
+                "scene": {
+                    "scene": "windmill"
+                }
+            }
+        },
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/windmill-0.mp4"
+        ]
+    }
+]

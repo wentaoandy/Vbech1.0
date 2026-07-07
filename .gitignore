@@ -1,0 +1,31 @@
+# large generated files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.tar
+*.tar.gz
+*.zip
+*.7z
+*.rar
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+
+# environments and caches
+环境压缩包/
+conda_envs/
+venv/
+venvs/
+site-packages/
+__pycache__/
+*.pyc
+.cache/
+cache/
+tmp/
+
+# local metadata
+.DS_Store
+Thumbs.db

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="624" viewBox="0 0 1200 624" font-family="Arial, Noto Sans CJK SC, Microsoft YaHei, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="40" y="35" font-size="22" font-weight="700">ConsisID 官方 VBench 中文指标柱状图</text>
+<text x="40" y="90" font-size="16">主体一致性</text>
+<rect x="210" y="75" width="760" height="22" fill="#eef2f7"/>
+<rect x="210" y="75" width="0" height="22" fill="#2563eb"/>
+<text x="990" y="91" font-size="15">暂无</text>
+<text x="40" y="124" font-size="16">背景一致性</text>
+<rect x="210" y="109" width="760" height="22" fill="#eef2f7"/>
+<rect x="210" y="109" width="0" height="22" fill="#2563eb"/>
+<text x="990" y="125" font-size="15">暂无</text>
+<text x="40" y="158" font-size="16">画面闪烁稳定性</text>
+<rect x="210" y="143" width="760" height="22" fill="#eef2f7"/>
+<rect x="210" y="143" width="737" height="22" fill="#2563eb"/>
+<text x="990" y="159" font-size="15">0.970</text>
+<text x="40" y="192" font-size="16">运动平滑度</text>
+<rect x="210" y="177" width="760" height="22" fill="#eef2f7"/>
+<rect x="210" y="177" width="0" height="22" fill="#2563eb"/>
+<text x="990" y="193" font-size="15">暂无</text>
+<text x="40" y="226" font-size="16">动态程度</text>
+<rect x="210" y="211" width="760" height="22" fill="#eef2f7"/>
+<rect x="210" y="211" width="0" height="22" fill="#2563eb"/>
+<text x="990" y="227" font-size="15">暂无</text>
+<text x="40" y="260" font-size="16">美学质量</text>
+<rect x="210" y="245" width="760" height="22" fill="#eef2f7"/>
+<rect x="210" y="245" width="0" height="22" fill="#2563eb"/>
+<text x="990" y="261" font-size="15">暂无</text>
+<text x="40" y="294" font-size="16">成像质量</text>
+<rect x="210" y="279" width="760" height="22" fill="#eef2f7"/>
+<rect x="210" y="279" width="0" height="22" fill="#2563eb"/>
+<text x="990" y="295" font-size="15">暂无</text>
+<text x="40" y="328" font-size="16">物体类别一致性</text>
+<rect x="210" y="313" width="760" height="22" fill="#eef2f7"/>
+<rect x="210" y="313" width="0" height="22" fill="#2563eb"/>
+<text x="990" y="329" font-size="15">暂无</text>
+<text x="40" y="362" font-size="16">多物体一致性</text>
+<rect x="210" y="347" width="760" height="22" fill="#eef2f7"/>
+<rect x="210" y="347" width="0" height="22" fill="#2563eb"/>
+<text x="990" y="363" font-size="15">暂无</text>
+<text x="40" y="396" font-size="16">人物动作一致性</text>
+<rect x="210" y="381" width="760" height="22" fill="#eef2f7"/>
+<rect x="210" y="381" width="0" height="22" fill="#2563eb"/>
+<text x="990" y="397" font-size="15">暂无</text>
+<text x="40" y="430" font-size="16">颜色一致性</text>
+<rect x="210" y="415" width="760" height="22" fill="#eef2f7"/>
+<rect x="210" y="415" width="0" height="22" fill="#2563eb"/>
+<text x="990" y="431" font-size="15">暂无</text>
+<text x="40" y="464" font-size="16">空间关系一致性</text>
+<rect x="210" y="449" width="760" height="22" fill="#eef2f7"/>
+<rect x="210" y="449" width="0" height="22" fill="#2563eb"/>
+<text x="990" y="465" font-size="15">暂无</text>
+<text x="40" y="498" font-size="16">场景一致性</text>
+<rect x="210" y="483" width="760" height="22" fill="#eef2f7"/>
+<rect x="210" y="483" width="0" height="22" fill="#2563eb"/>
+<text x="990" y="499" font-size="15">暂无</text>
+<text x="40" y="532" font-size="16">时序风格一致性</text>
+<rect x="210" y="517" width="760" height="22" fill="#eef2f7"/>
+<rect x="210" y="517" width="0" height="22" fill="#2563eb"/>
+<text x="990" y="533" font-size="15">暂无</text>
+<text x="40" y="566" font-size="16">外观风格一致性</text>
+<rect x="210" y="551" width="760" height="22" fill="#eef2f7"/>
+<rect x="210" y="551" width="0" height="22" fill="#2563eb"/>
+<text x="990" y="567" font-size="15">暂无</text>
+<text x="40" y="600" font-size="16">整体文本一致性</text>
+<rect x="210" y="585" width="760" height="22" fill="#eef2f7"/>
+<rect x="210" y="585" width="0" height="22" fill="#2563eb"/>
+<text x="990" y="601" font-size="15">暂无</text>
+</svg>

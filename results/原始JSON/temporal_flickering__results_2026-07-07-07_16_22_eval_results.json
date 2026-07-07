@@ -1,0 +1,307 @@
+{
+    "temporal_flickering": [
+        0.9698727296068779,
+        [
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/In a still frame, a stop sign-0.mp4",
+                "video_results": 0.9836715754340677
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a toilet, frozen in time-0.mp4",
+                "video_results": 0.9927088583216948
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a laptop, frozen in time-0.mp4",
+                "video_results": 0.9787677484400132
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of alley-0.mp4",
+                "video_results": 0.9562484030630074
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of bar-0.mp4",
+                "video_results": 0.9807784192702349
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of barn-0.mp4",
+                "video_results": 0.9530671848970301
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of bathroom-0.mp4",
+                "video_results": 0.990353827383004
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of bedroom-0.mp4",
+                "video_results": 0.9935042979670506
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of cliff-0.mp4",
+                "video_results": 0.9646837608486998
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/In a still frame, courtyard-0.mp4",
+                "video_results": 0.9697313645306755
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/In a still frame, gas station-0.mp4",
+                "video_results": 0.9856868070714614
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of house-0.mp4",
+                "video_results": 0.9404956406238032
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/indoor gymnasium, frozen in time-0.mp4",
+                "video_results": 0.9809780850129969
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of indoor library-0.mp4",
+                "video_results": 0.9577443029366287
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of kitchen-0.mp4",
+                "video_results": 0.9857350489672493
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of palace-0.mp4",
+                "video_results": 0.9393155378453871
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/In a still frame, parking lot-0.mp4",
+                "video_results": 0.952026595321356
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/In a still frame, phone booth-0.mp4",
+                "video_results": 0.975712220809039
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of restaurant-0.mp4",
+                "video_results": 0.9616447411331476
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of tower-0.mp4",
+                "video_results": 0.9945935020259783
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of a bowl-0.mp4",
+                "video_results": 0.971258036295573
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of an apple-0.mp4",
+                "video_results": 0.9902269129659615
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of a bench-0.mp4",
+                "video_results": 0.961847297818053
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of a bed-0.mp4",
+                "video_results": 0.9828816582174862
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of a chair-0.mp4",
+                "video_results": 0.9742814550212785
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of a cup-0.mp4",
+                "video_results": 0.9910504911460128
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of a dining table-0.mp4",
+                "video_results": 0.9693805451486625
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/In a still frame, a pear-0.mp4",
+                "video_results": 0.9920163145252302
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of a bunch of grapes-0.mp4",
+                "video_results": 0.9928676006840724
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of a bowl on the kitchen counter-0.mp4",
+                "video_results": 0.9848719269621606
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of a beautiful, handcrafted ceramic bowl-0.mp4",
+                "video_results": 0.9641034481572169
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of an antique bowl-0.mp4",
+                "video_results": 0.9846022727442723
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of an exquisite mahogany dining table-0.mp4",
+                "video_results": 0.9853426606047387
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of a wooden bench in the park-0.mp4",
+                "video_results": 0.9644861071717505
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of a beautiful wrought-iron bench surrounded by blooming flowers-0.mp4",
+                "video_results": 0.9418740366019455
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/In a still frame, a park bench with a view of the lake-0.mp4",
+                "video_results": 0.9632654975442325
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of a vintage rocking chair was placed on the porch-0.mp4",
+                "video_results": 0.9941514964197197
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of the jail cell was small and dimly lit, with cold, steel bars-0.mp4",
+                "video_results": 0.9713312784830729
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of the phone booth was tucked away in a quiet alley-0.mp4",
+                "video_results": 0.9716160044950597
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a dilapidated phone booth stood as a relic of a bygone era on the sidewalk, frozen in time-0.mp4",
+                "video_results": 0.976374579410927
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of the old red barn stood weathered and iconic against the backdrop of the countryside-0.mp4",
+                "video_results": 0.9708112679275812
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of a picturesque barn was painted a warm shade of red and nestled in a picturesque meadow-0.mp4",
+                "video_results": 0.9870740825054692
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/In a still frame, within the desolate desert, an oasis unfolded, characterized by the stoic presence of palm trees and a motionless, glassy pool of water-0.mp4",
+                "video_results": 0.968411195044424
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/In a still frame, the Parthenon's majestic Doric columns stand in serene solitude atop the Acropolis, framed by the tranquil Athenian landscape-0.mp4",
+                "video_results": 0.995237424326878
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/In a still frame, the Temple of Hephaestus, with its timeless Doric grace, stands stoically against the backdrop of a quiet Athens-0.mp4",
+                "video_results": 0.9867235894296683
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/In a still frame, the ornate Victorian streetlamp stands solemnly, adorned with intricate ironwork and stained glass panels-0.mp4",
+                "video_results": 0.980609057931339
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of the Stonehenge presented itself as an enigmatic puzzle, each colossal stone meticulously placed against the backdrop of tranquility-0.mp4",
+                "video_results": 0.9502090902889476
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/In a still frame, in the vast desert, an oasis nestled among dunes, featuring tall palm trees and an air of serenity-0.mp4",
+                "video_results": 0.9517780378753063
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/static view on a desert scene with an oasis, palm trees, and a clear, calm pool of water-0.mp4",
+                "video_results": 0.9506075690774357
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of an ornate Victorian streetlamp standing on a cobblestone street corner, illuminating the empty night-0.mp4",
+                "video_results": 0.9731224938934925
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of a tranquil lakeside cabin nestled among tall pines, its reflection mirrored perfectly in the calm water-0.mp4",
+                "video_results": 0.9643727283851773
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/In a still frame, a vintage gas lantern, adorned with intricate details, gracing a historic cobblestone square-0.mp4",
+                "video_results": 0.9778130980098949
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/In a still frame, a tranquil Japanese tea ceremony room, with tatami mats, a delicate tea set, and a bonsai tree in the corner-0.mp4",
+                "video_results": 0.9902727847005807
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of the Parthenon stands resolute in its classical elegance, a timeless symbol of Athens' cultural legacy-0.mp4",
+                "video_results": 0.9975442902714599
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of in the heart of Plaka, the neoclassical architecture of the old city harmonizes with the ancient ruins-0.mp4",
+                "video_results": 0.9802202748317345
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of in the desolate beauty of the American Southwest, Chaco Canyon's ancient ruins whispered tales of an enigmatic civilization that once thrived amidst the arid landscapes-0.mp4",
+                "video_results": 0.9641910739973479
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of at the edge of the Arabian Desert, the ancient city of Petra beckoned with its enigmatic rock-carved fa\u00e7ades-0.mp4",
+                "video_results": 0.9676735148710363
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/In a still frame, amidst the cobblestone streets, an Art Nouveau lamppost stood tall-0.mp4",
+                "video_results": 0.9806094094818714
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of in the quaint village square, a traditional wrought-iron streetlamp featured delicate filigree patterns and amber-hued glass panels-0.mp4",
+                "video_results": 0.9234686832801968
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of the lampposts were adorned with Art Deco motifs, their geometric shapes and frosted glass creating a sense of vintage glamour-0.mp4",
+                "video_results": 0.9374260659311332
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/In a still frame, in the picturesque square, a Gothic-style lamppost adorned with intricate stone carvings added a touch of medieval charm to the setting-0.mp4",
+                "video_results": 0.9842699088302314
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/In a still frame, in the heart of the old city, a row of ornate lantern-style streetlamps bathed the narrow alleyway in a warm, welcoming light-0.mp4",
+                "video_results": 0.9961011557018056
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of in the heart of the Utah desert, a massive sandstone arch spanned the horizon-0.mp4",
+                "video_results": 0.9795572149987314
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of in the Arizona desert, a massive stone bridge arched across a rugged canyon-0.mp4",
+                "video_results": 0.9767704814088111
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of in the corner of the minimalist tea room, a bonsai tree added a touch of nature's beauty to the otherwise simple and elegant space-0.mp4",
+                "video_results": 0.9801586936501896
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/In a still frame, amidst the hushed ambiance of the traditional tea room, a meticulously arranged tea set awaited, with porcelain cups, a bamboo whisk-0.mp4",
+                "video_results": 0.9841769368040796
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/In a still frame, nestled in the Zen garden, a rustic teahouse featured tatami seating and a traditional charcoal brazier-0.mp4",
+                "video_results": 0.9820502729976879
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of a country estate's library featured elegant wooden shelves-0.mp4",
+                "video_results": 0.9884038915821151
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of beneath the shade of a solitary oak tree, an old wooden park bench sat patiently-0.mp4",
+                "video_results": 0.9253090054381128
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of beside a tranquil pond, a weeping willow tree draped its branches gracefully over the water's surface, creating a serene tableau of reflection and calm-0.mp4",
+                "video_results": 0.9166939230526194
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of in the Zen garden, a perfectly raked gravel path led to a serene rock garden-0.mp4",
+                "video_results": 0.9762337722030341
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/In a still frame, a tranquil pond was fringed by weeping cherry trees, their blossoms drifting lazily onto the glassy surface-0.mp4",
+                "video_results": 0.9080148210712508
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/In a still frame, within the historic library's reading room, rows of antique leather chairs and mahogany tables offered a serene haven for literary contemplation-0.mp4",
+                "video_results": 0.9658579508463542
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of a peaceful orchid garden showcased a variety of delicate blooms-0.mp4",
+                "video_results": 0.8917416516472312
+            },
+            {
+                "video_path": "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/A tranquil tableau of in the serene courtyard, a centuries-old stone well stood as a symbol of a bygone era, its mossy stones bearing witness to the passage of time-0.mp4",
+                "video_results": 0.9216617659026501
+            }
+        ]
+    ]
+}

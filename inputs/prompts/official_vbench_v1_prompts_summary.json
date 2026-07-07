@@ -1,0 +1,10 @@
+{
+  "vbench_info": "/data/zengxin/zwt/external/VBench-v1/vbench/VBench_full_info.json",
+  "official_records": 946,
+  "unique_prompts": 944,
+  "duplicate_prompt_records": 2,
+  "sample_count": 1,
+  "target_video_files": 944,
+  "reference_image": "/data/zengxin/zwt/face_study/face/CVPR25-ConsisID/source/ConsisID-main/asserts/example_images/3.png",
+  "output": "data/test_sets/official_vbench_v1/prompts.csv"
+}

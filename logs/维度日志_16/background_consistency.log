@@ -1,0 +1,380 @@
+[rank0]:[W707 07:16:18.108388762 ProcessGroupNCCL.cpp:4115] [PG ID 0 PG GUID 0 Rank 0]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+args: Namespace(output_path='/data/zengxin/zwt/face_study/outputs/official_vbench_v1_consisid/consisid_official_vbench_v1_single_20260705_155651/evaluation/background_consistency', full_json_dir='/data/zengxin/zwt/external/VBench-v1/vbench/VBench_full_info.json', videos_path='/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names', dimension=['background_consistency'], load_ckpt_from_local=None, read_frame=None, mode='vbench_standard', prompt='None', prompt_file=None, category=None, imaging_quality_preprocessing_mode='longer')
+start evaluation
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: alley-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: alley-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: alley-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: alley-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: amusement park-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: amusement park-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: amusement park-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: amusement park-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: aquarium-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: aquarium-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: aquarium-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: aquarium-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: arch-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: arch-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: arch-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: arch-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: art gallery-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: art gallery-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: art gallery-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: art gallery-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: bathroom-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: bathroom-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: bathroom-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: bathroom-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: bakery shop-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: bakery shop-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: bakery shop-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: bakery shop-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: ballroom-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: ballroom-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: ballroom-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: ballroom-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: bar-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: bar-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: bar-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: bar-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: barn-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: barn-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: barn-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: barn-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: basement-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: basement-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: basement-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: basement-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: beach-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: beach-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: beach-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: beach-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: bedroom-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: bedroom-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: bedroom-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: bedroom-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: bridge-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: bridge-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: bridge-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: bridge-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: botanical garden-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: botanical garden-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: botanical garden-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: botanical garden-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: cafeteria-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: cafeteria-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: cafeteria-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: cafeteria-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: campsite-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: campsite-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: campsite-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: campsite-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: campus-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: campus-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: campus-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: campus-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: carrousel-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: carrousel-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: carrousel-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: carrousel-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: castle-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: castle-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: castle-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: castle-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: cemetery-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: cemetery-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: cemetery-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: cemetery-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: classroom-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: classroom-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: classroom-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: classroom-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: cliff-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: cliff-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: cliff-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: cliff-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: crosswalk-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: crosswalk-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: crosswalk-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: crosswalk-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: construction site-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: construction site-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: construction site-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: construction site-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: corridor-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: corridor-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: corridor-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: corridor-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: courtyard-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: courtyard-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: courtyard-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: courtyard-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: desert-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: desert-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: desert-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: desert-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: downtown-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: downtown-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: downtown-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: downtown-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: driveway-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: driveway-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: driveway-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: driveway-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: farm-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: farm-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: farm-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: farm-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: food court-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: food court-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: food court-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: food court-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: football field-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: football field-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: football field-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: football field-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: forest road-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: forest road-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: forest road-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: forest road-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: fountain-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: fountain-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: fountain-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: fountain-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: gas station-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: gas station-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: gas station-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: gas station-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: glacier-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: glacier-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: glacier-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: glacier-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: golf course-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: golf course-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: golf course-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: golf course-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: indoor gymnasium-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: indoor gymnasium-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: indoor gymnasium-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: indoor gymnasium-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: harbor-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: harbor-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: harbor-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: harbor-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: highway-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: highway-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: highway-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: highway-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: hospital-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: hospital-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: hospital-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: hospital-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: house-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: house-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: house-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: house-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: iceberg-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: iceberg-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: iceberg-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: iceberg-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: industrial area-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: industrial area-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: industrial area-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: industrial area-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: jail cell-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: jail cell-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: jail cell-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: jail cell-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: junkyard-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: junkyard-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: junkyard-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: junkyard-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: kitchen-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: kitchen-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: kitchen-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: kitchen-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: indoor library-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: indoor library-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: indoor library-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: indoor library-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: lighthouse-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: lighthouse-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: lighthouse-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: lighthouse-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: laboratory-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: laboratory-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: laboratory-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: laboratory-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: mansion-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: mansion-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: mansion-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: mansion-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: marsh-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: marsh-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: marsh-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: marsh-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: mountain-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: mountain-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: mountain-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: mountain-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: indoor movie theater-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: indoor movie theater-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: indoor movie theater-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: indoor movie theater-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: indoor museum-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: indoor museum-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: indoor museum-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: indoor museum-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: music studio-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: music studio-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: music studio-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: music studio-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: nursery-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: nursery-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: nursery-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: nursery-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: ocean-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: ocean-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: ocean-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: ocean-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: office-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: office-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: office-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: office-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: palace-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: palace-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: palace-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: palace-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: parking lot-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: parking lot-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: parking lot-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: parking lot-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: pharmacy-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: pharmacy-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: pharmacy-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: pharmacy-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: phone booth-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: phone booth-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: phone booth-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: phone booth-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: raceway-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: raceway-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: raceway-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: raceway-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: restaurant-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: restaurant-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: restaurant-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: restaurant-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: river-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: river-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: river-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: river-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: science museum-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: science museum-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: science museum-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: science museum-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: shower-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: shower-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: shower-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: shower-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: ski slope-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: ski slope-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: ski slope-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: ski slope-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: sky-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: sky-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: sky-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: sky-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: skyscraper-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: skyscraper-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: skyscraper-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: skyscraper-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: baseball stadium-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: baseball stadium-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: baseball stadium-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: baseball stadium-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: staircase-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: staircase-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: staircase-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: staircase-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: street-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: street-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: street-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: street-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: supermarket-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: supermarket-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: supermarket-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: supermarket-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: indoor swimming pool-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: indoor swimming pool-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: indoor swimming pool-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: indoor swimming pool-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: tower-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: tower-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: tower-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: tower-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: outdoor track-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: outdoor track-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: outdoor track-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: outdoor track-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: train railway-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: train railway-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: train railway-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: train railway-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: train station platform-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: train station platform-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: train station platform-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: train station platform-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: underwater coral reef-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: underwater coral reef-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: underwater coral reef-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: underwater coral reef-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: valley-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: valley-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: valley-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: valley-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: volcano-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: volcano-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: volcano-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: volcano-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: waterfall-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: waterfall-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: waterfall-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: waterfall-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: windmill-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: windmill-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: windmill-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: windmill-4.mp4
+Evaluation meta data saved to /data/zengxin/zwt/face_study/outputs/official_vbench_v1_consisid/consisid_official_vbench_v1_single_20260705_155651/evaluation/background_consistency/results_2026-07-07-07:16:18_full_info.json
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/data/zengxin/zwt/external/VBench-v1/vbench/__init__.py", line 147, in evaluate
+[rank0]:     dimension_module = importlib.import_module(f'vbench.{dimension}')
+[rank0]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/data/zengxin/zwt/conda_envs/face_consisid/lib/python3.11/importlib/__init__.py", line 126, in import_module
+[rank0]:     return _bootstrap._gcd_import(name[level:], package, level)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+[rank0]:   File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+[rank0]:   File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+[rank0]:   File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+[rank0]:   File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+[rank0]:   File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+[rank0]:   File "/data/zengxin/zwt/external/VBench-v1/vbench/background_consistency.py", line 5, in <module>
+[rank0]:     import clip
+[rank0]:   File "/data/zengxin/zwt/conda_envs/vbench_v1/lib/python3.11/site-packages/clip/__init__.py", line 1, in <module>
+[rank0]:     from .clip import *
+[rank0]:   File "/data/zengxin/zwt/conda_envs/vbench_v1/lib/python3.11/site-packages/clip/clip.py", line 6, in <module>
+[rank0]:     from pkg_resources import packaging
+[rank0]: ModuleNotFoundError: No module named 'pkg_resources'
+
+[rank0]: During handling of the above exception, another exception occurred:
+
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/data/zengxin/zwt/external/VBench-v1/evaluate.py", line 153, in <module>
+[rank0]:     main()
+[rank0]:   File "/data/zengxin/zwt/external/VBench-v1/evaluate.py", line 139, in main
+[rank0]:     my_VBench.evaluate(
+[rank0]:   File "/data/zengxin/zwt/external/VBench-v1/vbench/__init__.py", line 150, in evaluate
+[rank0]:     raise NotImplementedError(f'UnImplemented dimension {dimension}!, {e}')
+[rank0]: NotImplementedError: UnImplemented dimension background_consistency!, No module named 'pkg_resources'
+[rank0]:[W707 07:16:19.525980735 ProcessGroupNCCL.cpp:1250] Warning: WARNING: process group has NOT been destroyed before we destruct ProcessGroupNCCL. On normal program exit, the application should call destroy_process_group to ensure that any pending NCCL operations have finished in this process. In rare cases this process can exit before this point and block the progress of another member of the process group. This constraint has always been present,  but this warning has only been added since PyTorch 2.4 (function operator())

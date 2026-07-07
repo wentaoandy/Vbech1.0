@@ -1,0 +1,408 @@
+[rank0]:[W707 07:21:20.533950384 ProcessGroupNCCL.cpp:4115] [PG ID 0 PG GUID 0 Rank 0]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+args: Namespace(output_path='/data/zengxin/zwt/face_study/outputs/official_vbench_v1_consisid/consisid_official_vbench_v1_single_20260705_155651/evaluation/aesthetic_quality', full_json_dir='/data/zengxin/zwt/external/VBench-v1/vbench/VBench_full_info.json', videos_path='/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names', dimension=['aesthetic_quality'], load_ckpt_from_local=None, read_frame=None, mode='vbench_standard', prompt='None', prompt_file=None, category=None, imaging_quality_preprocessing_mode='longer')
+start evaluation
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Close up of grapes on a rotating table.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Close up of grapes on a rotating table.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Close up of grapes on a rotating table.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Close up of grapes on a rotating table.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Turtle swimming in ocean.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Turtle swimming in ocean.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Turtle swimming in ocean.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Turtle swimming in ocean.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A storm trooper vacuuming the beach.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A storm trooper vacuuming the beach.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A storm trooper vacuuming the beach.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A storm trooper vacuuming the beach.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A panda standing on a surfboard in the ocean in sunset.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A panda standing on a surfboard in the ocean in sunset.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A panda standing on a surfboard in the ocean in sunset.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A panda standing on a surfboard in the ocean in sunset.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An astronaut feeding ducks on a sunny afternoon, reflection from the water.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An astronaut feeding ducks on a sunny afternoon, reflection from the water.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An astronaut feeding ducks on a sunny afternoon, reflection from the water.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An astronaut feeding ducks on a sunny afternoon, reflection from the water.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Two pandas discussing an academic paper.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Two pandas discussing an academic paper.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Two pandas discussing an academic paper.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Two pandas discussing an academic paper.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Sunset time lapse at the beach with moving clouds and colors in the sky.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Sunset time lapse at the beach with moving clouds and colors in the sky.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Sunset time lapse at the beach with moving clouds and colors in the sky.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Sunset time lapse at the beach with moving clouds and colors in the sky.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A fat rabbit wearing a purple robe walking through a fantasy landscape.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A fat rabbit wearing a purple robe walking through a fantasy landscape.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A fat rabbit wearing a purple robe walking through a fantasy landscape.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A fat rabbit wearing a purple robe walking through a fantasy landscape.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A koala bear playing piano in the forest.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A koala bear playing piano in the forest.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A koala bear playing piano in the forest.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A koala bear playing piano in the forest.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An astronaut flying in space.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An astronaut flying in space.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An astronaut flying in space.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An astronaut flying in space.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Fireworks.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Fireworks.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Fireworks.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Fireworks.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An animated painting of fluffy white clouds moving in sky.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An animated painting of fluffy white clouds moving in sky.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An animated painting of fluffy white clouds moving in sky.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An animated painting of fluffy white clouds moving in sky.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Flying through fantasy landscapes.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Flying through fantasy landscapes.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Flying through fantasy landscapes.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Flying through fantasy landscapes.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A bigfoot walking in the snowstorm.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A bigfoot walking in the snowstorm.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A bigfoot walking in the snowstorm.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A bigfoot walking in the snowstorm.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A squirrel eating a burger.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A squirrel eating a burger.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A squirrel eating a burger.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A squirrel eating a burger.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cat wearing sunglasses and working as a lifeguard at a pool.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cat wearing sunglasses and working as a lifeguard at a pool.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cat wearing sunglasses and working as a lifeguard at a pool.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cat wearing sunglasses and working as a lifeguard at a pool.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Snow rocky mountains peaks canyon. snow blanketed rocky mountains surround and shadow deep canyons. the canyons twist and bend through the high elevated mountain peaks.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Splash of turquoise water in extreme slow motion, alpha channel included.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Splash of turquoise water in extreme slow motion, alpha channel included.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Splash of turquoise water in extreme slow motion, alpha channel included.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Splash of turquoise water in extreme slow motion, alpha channel included.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an ice cream is melting on the table.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an ice cream is melting on the table.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an ice cream is melting on the table.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an ice cream is melting on the table.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a drone flying over a snowy forest.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a drone flying over a snowy forest.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a drone flying over a snowy forest.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a drone flying over a snowy forest.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a shark is swimming in the ocean.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a shark is swimming in the ocean.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a shark is swimming in the ocean.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a shark is swimming in the ocean.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Aerial panoramic video from a drone of a fantasy land.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Aerial panoramic video from a drone of a fantasy land.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Aerial panoramic video from a drone of a fantasy land.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Aerial panoramic video from a drone of a fantasy land.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a teddy bear is swimming in the ocean.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a teddy bear is swimming in the ocean.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a teddy bear is swimming in the ocean.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a teddy bear is swimming in the ocean.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: time lapse of sunrise on mars.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: time lapse of sunrise on mars.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: time lapse of sunrise on mars.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: time lapse of sunrise on mars.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: golden fish swimming in the ocean.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: golden fish swimming in the ocean.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: golden fish swimming in the ocean.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: golden fish swimming in the ocean.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An artist brush painting on a canvas close up.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An artist brush painting on a canvas close up.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An artist brush painting on a canvas close up.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An artist brush painting on a canvas close up.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A drone view of celebration with Christmas tree and fireworks, starry sky - background.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A drone view of celebration with Christmas tree and fireworks, starry sky - background.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A drone view of celebration with Christmas tree and fireworks, starry sky - background.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A drone view of celebration with Christmas tree and fireworks, starry sky - background.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: happy dog wearing a yellow turtleneck, studio, portrait, facing camera, dark background-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Origami dancers in white paper, 3D render, on white background, studio shot, dancing modern dance.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Origami dancers in white paper, 3D render, on white background, studio shot, dancing modern dance.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Origami dancers in white paper, 3D render, on white background, studio shot, dancing modern dance.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Origami dancers in white paper, 3D render, on white background, studio shot, dancing modern dance.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Campfire at night in a snowy forest with starry sky in the background.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Campfire at night in a snowy forest with starry sky in the background.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Campfire at night in a snowy forest with starry sky in the background.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Campfire at night in a snowy forest with starry sky in the background.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a fantasy landscape-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a fantasy landscape-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a fantasy landscape-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a fantasy landscape-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A 3D model of a 1800s victorian house.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A 3D model of a 1800s victorian house.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A 3D model of a 1800s victorian house.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A 3D model of a 1800s victorian house.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: this is how I do makeup in the morning.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: this is how I do makeup in the morning.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: this is how I do makeup in the morning.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: this is how I do makeup in the morning.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A raccoon that looks like a turtle, digital art.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A raccoon that looks like a turtle, digital art.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A raccoon that looks like a turtle, digital art.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A raccoon that looks like a turtle, digital art.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Robot dancing in Times Square.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Robot dancing in Times Square.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Robot dancing in Times Square.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Robot dancing in Times Square.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Busy freeway at night.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Busy freeway at night.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Busy freeway at night.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Busy freeway at night.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Balloon full of water exploding in extreme slow motion.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Balloon full of water exploding in extreme slow motion.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Balloon full of water exploding in extreme slow motion.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Balloon full of water exploding in extreme slow motion.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An astronaut is riding a horse in the space in a photorealistic style.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An astronaut is riding a horse in the space in a photorealistic style.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An astronaut is riding a horse in the space in a photorealistic style.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An astronaut is riding a horse in the space in a photorealistic style.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Macro slo-mo. Slow motion cropped closeup of roasted coffee beans falling into an empty bowl.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Macro slo-mo. Slow motion cropped closeup of roasted coffee beans falling into an empty bowl.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Macro slo-mo. Slow motion cropped closeup of roasted coffee beans falling into an empty bowl.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Macro slo-mo. Slow motion cropped closeup of roasted coffee beans falling into an empty bowl.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Sewing machine, old sewing machine working.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Sewing machine, old sewing machine working.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Sewing machine, old sewing machine working.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Sewing machine, old sewing machine working.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Motion colour drop in water, ink swirling in water, colourful ink in water, abstraction fancy dream cloud of ink.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Motion colour drop in water, ink swirling in water, colourful ink in water, abstraction fancy dream cloud of ink.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Motion colour drop in water, ink swirling in water, colourful ink in water, abstraction fancy dream cloud of ink.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Motion colour drop in water, ink swirling in water, colourful ink in water, abstraction fancy dream cloud of ink.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Few big purple plums rotating on the turntable. water drops appear on the skin during rotation. isolated on the white background. close-up. macro.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Few big purple plums rotating on the turntable. water drops appear on the skin during rotation. isolated on the white background. close-up. macro.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Few big purple plums rotating on the turntable. water drops appear on the skin during rotation. isolated on the white background. close-up. macro.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Few big purple plums rotating on the turntable. water drops appear on the skin during rotation. isolated on the white background. close-up. macro.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Vampire makeup face of beautiful girl, red contact lenses.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Vampire makeup face of beautiful girl, red contact lenses.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Vampire makeup face of beautiful girl, red contact lenses.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Vampire makeup face of beautiful girl, red contact lenses.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Ashtray full of butts on table, smoke flowing on black background, close-up-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Ashtray full of butts on table, smoke flowing on black background, close-up-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Ashtray full of butts on table, smoke flowing on black background, close-up-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Ashtray full of butts on table, smoke flowing on black background, close-up-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Pacific coast, carmel by the sea ocean and waves.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Pacific coast, carmel by the sea ocean and waves.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Pacific coast, carmel by the sea ocean and waves.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Pacific coast, carmel by the sea ocean and waves.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A teddy bear is playing drum kit in NYC Times Square.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A teddy bear is playing drum kit in NYC Times Square.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A teddy bear is playing drum kit in NYC Times Square.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A teddy bear is playing drum kit in NYC Times Square.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A corgi is playing drum kit.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A corgi is playing drum kit.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A corgi is playing drum kit.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A corgi is playing drum kit.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An Iron man is playing the electronic guitar, high electronic guitar.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An Iron man is playing the electronic guitar, high electronic guitar.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An Iron man is playing the electronic guitar, high electronic guitar.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An Iron man is playing the electronic guitar, high electronic guitar.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A raccoon is playing the electronic guitar.-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A raccoon is playing the electronic guitar.-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A raccoon is playing the electronic guitar.-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A raccoon is playing the electronic guitar.-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Vincent van Gogh-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Vincent van Gogh-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Vincent van Gogh-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A boat sailing leisurely along the Seine River with the Eiffel Tower in background by Vincent van Gogh-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A corgi's head depicted as an explosion of a nebula-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A corgi's head depicted as an explosion of a nebula-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A corgi's head depicted as an explosion of a nebula-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A corgi's head depicted as an explosion of a nebula-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A fantasy landscape-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A fantasy landscape-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A fantasy landscape-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A fantasy landscape-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A future where humans have achieved teleportation technology-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A future where humans have achieved teleportation technology-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A future where humans have achieved teleportation technology-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A future where humans have achieved teleportation technology-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A jellyfish floating through the ocean, with bioluminescent tentacles-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A jellyfish floating through the ocean, with bioluminescent tentacles-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A jellyfish floating through the ocean, with bioluminescent tentacles-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A jellyfish floating through the ocean, with bioluminescent tentacles-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A Mars rover moving on Mars-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A Mars rover moving on Mars-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A Mars rover moving on Mars-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A Mars rover moving on Mars-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A panda drinking coffee in a cafe in Paris-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A panda drinking coffee in a cafe in Paris-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A panda drinking coffee in a cafe in Paris-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A panda drinking coffee in a cafe in Paris-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A space shuttle launching into orbit, with flames and smoke billowing out from the engines-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A space shuttle launching into orbit, with flames and smoke billowing out from the engines-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A space shuttle launching into orbit, with flames and smoke billowing out from the engines-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A space shuttle launching into orbit, with flames and smoke billowing out from the engines-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A steam train moving on a mountainside-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A steam train moving on a mountainside-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A steam train moving on a mountainside-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A steam train moving on a mountainside-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A super cool giant robot in Cyberpunk Beijing-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A super cool giant robot in Cyberpunk Beijing-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A super cool giant robot in Cyberpunk Beijing-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A super cool giant robot in Cyberpunk Beijing-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A tropical beach at sunrise, with palm trees and crystal-clear water in the foreground-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Cinematic shot of Van Gogh's selfie, Van Gogh style-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Cinematic shot of Van Gogh's selfie, Van Gogh style-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Cinematic shot of Van Gogh's selfie, Van Gogh style-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Cinematic shot of Van Gogh's selfie, Van Gogh style-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Gwen Stacy reading a book-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Gwen Stacy reading a book-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Gwen Stacy reading a book-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Gwen Stacy reading a book-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Iron Man flying in the sky-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Iron Man flying in the sky-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Iron Man flying in the sky-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Iron Man flying in the sky-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: The bund Shanghai, oil painting-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: The bund Shanghai, oil painting-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: The bund Shanghai, oil painting-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: The bund Shanghai, oil painting-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Yoda playing guitar on the stage-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Yoda playing guitar on the stage-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Yoda playing guitar on the stage-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Yoda playing guitar on the stage-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A beautiful coastal beach in spring, waves lapping on sand by Hokusai, in the style of Ukiyo-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A beautiful coastal beach in spring, waves lapping on sand by Hokusai, in the style of Ukiyo-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A beautiful coastal beach in spring, waves lapping on sand by Hokusai, in the style of Ukiyo-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A beautiful coastal beach in spring, waves lapping on sand by Hokusai, in the style of Ukiyo-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A beautiful coastal beach in spring, waves lapping on sand by Vincent van Gogh-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A beautiful coastal beach in spring, waves lapping on sand by Vincent van Gogh-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A beautiful coastal beach in spring, waves lapping on sand by Vincent van Gogh-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A beautiful coastal beach in spring, waves lapping on sand by Vincent van Gogh-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A boat sailing leisurely along the Seine River with the Eiffel Tower in background-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A boat sailing leisurely along the Seine River with the Eiffel Tower in background-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A boat sailing leisurely along the Seine River with the Eiffel Tower in background-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A boat sailing leisurely along the Seine River with the Eiffel Tower in background-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A car moving slowly on an empty street, rainy evening-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A car moving slowly on an empty street, rainy evening-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A car moving slowly on an empty street, rainy evening-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A car moving slowly on an empty street, rainy evening-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cat eating food out of a bowl-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cat eating food out of a bowl-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cat eating food out of a bowl-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cat eating food out of a bowl-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cat wearing sunglasses at a pool-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cat wearing sunglasses at a pool-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cat wearing sunglasses at a pool-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cat wearing sunglasses at a pool-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A confused panda in calculus class-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A confused panda in calculus class-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A confused panda in calculus class-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A confused panda in calculus class-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cute fluffy panda eating Chinese food in a restaurant-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cute fluffy panda eating Chinese food in a restaurant-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cute fluffy panda eating Chinese food in a restaurant-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cute fluffy panda eating Chinese food in a restaurant-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cute happy Corgi playing in park, sunset-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cute happy Corgi playing in park, sunset-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cute happy Corgi playing in park, sunset-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cute happy Corgi playing in park, sunset-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cute raccoon playing guitar in a boat on the ocean-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cute raccoon playing guitar in a boat on the ocean-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cute raccoon playing guitar in a boat on the ocean-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A cute raccoon playing guitar in a boat on the ocean-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A happy fuzzy panda playing guitar nearby a campfire, snow mountain in the background-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A happy fuzzy panda playing guitar nearby a campfire, snow mountain in the background-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A happy fuzzy panda playing guitar nearby a campfire, snow mountain in the background-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A happy fuzzy panda playing guitar nearby a campfire, snow mountain in the background-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A lightning striking atop of eiffel tower, dark clouds in the sky-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A lightning striking atop of eiffel tower, dark clouds in the sky-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A lightning striking atop of eiffel tower, dark clouds in the sky-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A lightning striking atop of eiffel tower, dark clouds in the sky-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A modern art museum, with colorful paintings-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A modern art museum, with colorful paintings-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A modern art museum, with colorful paintings-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A modern art museum, with colorful paintings-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A panda cooking in the kitchen-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A panda cooking in the kitchen-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A panda cooking in the kitchen-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A panda cooking in the kitchen-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A panda playing on a swing set-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A panda playing on a swing set-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A panda playing on a swing set-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A panda playing on a swing set-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A polar bear is playing guitar-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A polar bear is playing guitar-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A polar bear is playing guitar-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A polar bear is playing guitar-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A raccoon dressed in suit playing the trumpet, stage background-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A raccoon dressed in suit playing the trumpet, stage background-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A raccoon dressed in suit playing the trumpet, stage background-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A raccoon dressed in suit playing the trumpet, stage background-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A robot DJ is playing the turntable, in heavy raining futuristic tokyo rooftop cyberpunk night, sci-fi, fantasy-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A shark swimming in clear Caribbean ocean-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A shark swimming in clear Caribbean ocean-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A shark swimming in clear Caribbean ocean-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A shark swimming in clear Caribbean ocean-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A super robot protecting city-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A super robot protecting city-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A super robot protecting city-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A super robot protecting city-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A teddy bear washing the dishes-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A teddy bear washing the dishes-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A teddy bear washing the dishes-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: A teddy bear washing the dishes-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An epic tornado attacking above a glowing city at night, the tornado is made of smoke-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An epic tornado attacking above a glowing city at night, the tornado is made of smoke-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An epic tornado attacking above a glowing city at night, the tornado is made of smoke-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An epic tornado attacking above a glowing city at night, the tornado is made of smoke-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An oil painting of a couple in formal evening wear going home get caught in a heavy downpour with umbrellas-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An oil painting of a couple in formal evening wear going home get caught in a heavy downpour with umbrellas-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An oil painting of a couple in formal evening wear going home get caught in a heavy downpour with umbrellas-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: An oil painting of a couple in formal evening wear going home get caught in a heavy downpour with umbrellas-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Clown fish swimming through the coral reef-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Clown fish swimming through the coral reef-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Clown fish swimming through the coral reef-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Clown fish swimming through the coral reef-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Hyper-realistic spaceship landing on Mars-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Hyper-realistic spaceship landing on Mars-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Hyper-realistic spaceship landing on Mars-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Hyper-realistic spaceship landing on Mars-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: The bund Shanghai, vibrant color-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: The bund Shanghai, vibrant color-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: The bund Shanghai, vibrant color-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: The bund Shanghai, vibrant color-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Vincent van Gogh is painting in the room-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Vincent van Gogh is painting in the room-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Vincent van Gogh is painting in the room-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Vincent van Gogh is painting in the room-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Yellow flowers swing in the wind-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Yellow flowers swing in the wind-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Yellow flowers swing in the wind-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: Yellow flowers swing in the wind-4.mp4
+Evaluation meta data saved to /data/zengxin/zwt/face_study/outputs/official_vbench_v1_consisid/consisid_official_vbench_v1_single_20260705_155651/evaluation/aesthetic_quality/results_2026-07-07-07:21:20_full_info.json
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/data/zengxin/zwt/external/VBench-v1/vbench/__init__.py", line 147, in evaluate
+[rank0]:     dimension_module = importlib.import_module(f'vbench.{dimension}')
+[rank0]:                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/data/zengxin/zwt/conda_envs/face_consisid/lib/python3.11/importlib/__init__.py", line 126, in import_module
+[rank0]:     return _bootstrap._gcd_import(name[level:], package, level)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "<frozen importlib._bootstrap>", line 1204, in _gcd_import
+[rank0]:   File "<frozen importlib._bootstrap>", line 1176, in _find_and_load
+[rank0]:   File "<frozen importlib._bootstrap>", line 1147, in _find_and_load_unlocked
+[rank0]:   File "<frozen importlib._bootstrap>", line 690, in _load_unlocked
+[rank0]:   File "<frozen importlib._bootstrap_external>", line 940, in exec_module
+[rank0]:   File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+[rank0]:   File "/data/zengxin/zwt/external/VBench-v1/vbench/aesthetic_quality.py", line 2, in <module>
+[rank0]:     import clip
+[rank0]:   File "/data/zengxin/zwt/conda_envs/vbench_v1/lib/python3.11/site-packages/clip/__init__.py", line 1, in <module>
+[rank0]:     from .clip import *
+[rank0]:   File "/data/zengxin/zwt/conda_envs/vbench_v1/lib/python3.11/site-packages/clip/clip.py", line 6, in <module>
+[rank0]:     from pkg_resources import packaging
+[rank0]: ModuleNotFoundError: No module named 'pkg_resources'
+
+[rank0]: During handling of the above exception, another exception occurred:
+
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/data/zengxin/zwt/external/VBench-v1/evaluate.py", line 153, in <module>
+[rank0]:     main()
+[rank0]:   File "/data/zengxin/zwt/external/VBench-v1/evaluate.py", line 139, in main
+[rank0]:     my_VBench.evaluate(
+[rank0]:   File "/data/zengxin/zwt/external/VBench-v1/vbench/__init__.py", line 150, in evaluate
+[rank0]:     raise NotImplementedError(f'UnImplemented dimension {dimension}!, {e}')
+[rank0]: NotImplementedError: UnImplemented dimension aesthetic_quality!, No module named 'pkg_resources'
+[rank0]:[W707 07:21:20.013055010 ProcessGroupNCCL.cpp:1250] Warning: WARNING: process group has NOT been destroyed before we destruct ProcessGroupNCCL. On normal program exit, the application should call destroy_process_group to ensure that any pending NCCL operations have finished in this process. In rare cases this process can exit before this point and block the progress of another member of the process group. This constraint has always been present,  but this warning has only been added since PyTorch 2.4 (function operator())

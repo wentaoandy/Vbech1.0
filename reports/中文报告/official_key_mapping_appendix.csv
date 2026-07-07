@@ -1,0 +1,17 @@
+﻿英文key,中文展示名,结果文件
+subject_consistency,主体一致性,outputs/official_vbench_v1_consisid/consisid_official_vbench_v1_single_20260705_155651/evaluation/subject_consistency/results_2026-07-07-07:16:10_full_info.json
+background_consistency,背景一致性,outputs/official_vbench_v1_consisid/consisid_official_vbench_v1_single_20260705_155651/evaluation/background_consistency/results_2026-07-07-07:16:18_full_info.json
+temporal_flickering,画面闪烁稳定性,outputs/official_vbench_v1_consisid/consisid_official_vbench_v1_single_20260705_155651/evaluation/temporal_flickering/results_2026-07-07-07:16:22_eval_results.json
+motion_smoothness,运动平滑度,
+dynamic_degree,动态程度,outputs/official_vbench_v1_consisid/consisid_official_vbench_v1_single_20260705_155651/evaluation/dynamic_degree/results_2026-07-07-07:18:59_full_info.json
+aesthetic_quality,美学质量,outputs/official_vbench_v1_consisid/consisid_official_vbench_v1_single_20260705_155651/evaluation/aesthetic_quality/results_2026-07-07-07:21:20_full_info.json
+imaging_quality,成像质量,outputs/official_vbench_v1_consisid/consisid_official_vbench_v1_single_20260705_155651/evaluation/imaging_quality/results_2026-07-07-07:21:24_full_info.json
+object_class,物体类别一致性,
+multiple_objects,多物体一致性,
+human_action,人物动作一致性,
+color,颜色一致性,
+spatial_relationship,空间关系一致性,
+scene,场景一致性,
+temporal_style,时序风格一致性,
+appearance_style,外观风格一致性,outputs/official_vbench_v1_consisid/consisid_official_vbench_v1_single_20260705_155651/evaluation/appearance_style/results_2026-07-07-07:28:41_full_info.json
+overall_consistency,整体文本一致性,

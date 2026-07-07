@@ -1,0 +1,11 @@
+{
+  "mode": "symlink",
+  "prompts": 944,
+  "generation_log_rows": 944,
+  "linked_video_files": 944,
+  "missing_count": 0,
+  "skipped_count": 0,
+  "output_dir": "data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names",
+  "missing": [],
+  "skipped": []
+}

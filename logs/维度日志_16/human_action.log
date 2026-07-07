@@ -1,0 +1,20 @@
+--2026-07-07 07:21:41--  https://huggingface.co/OpenGVLab/VBench_Used_Models/resolve/main/l16_ptk710_ftk710_ftk400_f16_res224.pth
+Resolving huggingface.co (huggingface.co)... 108.160.170.33, 2a03:2880:f131:83:face:b00c:0:25de
+Connecting to huggingface.co (huggingface.co)|108.160.170.33|:443... failed: Connection timed out.
+Connecting to huggingface.co (huggingface.co)|2a03:2880:f131:83:face:b00c:0:25de|:443... failed: Network is unreachable.
+args: Namespace(output_path='/data/zengxin/zwt/face_study/outputs/official_vbench_v1_consisid/consisid_official_vbench_v1_single_20260705_155651/evaluation/human_action', full_json_dir='/data/zengxin/zwt/external/VBench-v1/vbench/VBench_full_info.json', videos_path='/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names', dimension=['human_action'], load_ckpt_from_local=None, read_frame=None, mode='vbench_standard', prompt='None', prompt_file=None, category=None, imaging_quality_preprocessing_mode='longer')
+start evaluation
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/data/zengxin/zwt/external/VBench-v1/evaluate.py", line 153, in <module>
+[rank0]:     main()
+[rank0]:   File "/data/zengxin/zwt/external/VBench-v1/evaluate.py", line 139, in main
+[rank0]:     my_VBench.evaluate(
+[rank0]:   File "/data/zengxin/zwt/external/VBench-v1/vbench/__init__.py", line 141, in evaluate
+[rank0]:     submodules_dict = init_submodules(dimension_list, local=local, read_frame=read_frame)
+[rank0]:                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/data/zengxin/zwt/external/VBench-v1/vbench/utils.py", line 259, in init_submodules
+[rank0]:     subprocess.run(wget_command, check=True)
+[rank0]:   File "/data/zengxin/zwt/conda_envs/face_consisid/lib/python3.11/subprocess.py", line 571, in run
+[rank0]:     raise CalledProcessError(retcode, process.args,
+[rank0]: subprocess.CalledProcessError: Command '['wget', 'https://huggingface.co/OpenGVLab/VBench_Used_Models/resolve/main/l16_ptk710_ftk710_ftk400_f16_res224.pth', '-P', '/home/zengxin/.cache/vbench/umt_model']' returned non-zero exit status 4.
+[rank0]:[W707 07:23:55.955655778 ProcessGroupNCCL.cpp:1250] Warning: WARNING: process group has NOT been destroyed before we destruct ProcessGroupNCCL. On normal program exit, the application should call destroy_process_group to ensure that any pending NCCL operations have finished in this process. In rare cases this process can exit before this point and block the progress of another member of the process group. This constraint has always been present,  but this warning has only been added since PyTorch 2.4 (function operator())

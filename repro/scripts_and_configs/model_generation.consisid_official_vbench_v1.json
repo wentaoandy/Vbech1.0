@@ -1,0 +1,33 @@
+{
+  "models": {
+    "consisid_official_vbench_v1": {
+      "generation_type": "standard",
+      "source": "consisid",
+      "model_name": "consisid",
+      "working_dir": "face/CVPR25-ConsisID/source/ConsisID-main",
+      "output_glob": "{output_dir}/*.mp4",
+      "command": [
+        "python",
+        "infer.py",
+        "--model_path",
+        "{CONSISID_CKPT_DIR}",
+        "--img_file_path",
+        "{reference_image}",
+        "--prompt",
+        "{prompt}",
+        "--output_path",
+        "{output_dir}",
+        "--num_inference_steps",
+        "50",
+        "--guidance_scale",
+        "6.0",
+        "--num_videos_per_prompt",
+        "1",
+        "--dtype",
+        "bfloat16",
+        "--seed",
+        "{sample_index}"
+      ]
+    }
+  }
+}

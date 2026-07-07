@@ -1,0 +1,47 @@
+ConsisID 官方 VBench v1 全量评测下载快照
+
+批次：consisid_official_vbench_v1_single_20260705_155651
+开始时间：2026-07-05 15:56:51 +0800
+分片 1 生成结束：2026-07-07 05:56:52.422433203 +0800
+分片 2 生成结束：2026-07-07 07:11:33.026140876 +0800
+最终整理/评测结束：
+总耗时：约 39 小时 34 分钟
+
+生成视频：分片 1 为 472 个，分片 2 为 472 个，合计 944 个。
+标准命名视频条目：944 个。
+原始官方提示词记录：946 条；去重后实际生成：944 条；缺失视频：0 个。
+评测结果 JSON：1 个 eval_results.json，7 个 full_info.json。
+中文报告文件数：5 个。
+
+关键结论：生成已完成；最终整理脚本已结束；官方 16 维评测中，当前只有“画面闪烁稳定性”生成了可解析分数，其余维度保留了日志/中间 full_info 或失败日志。
+主要失败原因包括：缺 pkg_resources、Hugging Face / GitHub / Azure Blob 下载失败或限流、detectron2 安装失败（CUDA 13.3 与 PyTorch CUDA 12.1 不匹配）。完整原因见 evaluation/*.log 和 setup/detectron2_install*.log。
+
+目录体积：
+200M	data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_shard01
+206M	data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_shard02
+3.8M	data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names
+1.1M	outputs/official_vbench_v1_consisid/consisid_official_vbench_v1_single_20260705_155651
+15M	outputs/official_vbench_v1_consisid/full_single_sharded
+2.9M	data/manifests
+
+维度摘要：
+dimension                eval  full  reason
+aesthetic_quality        0     1      缺pkg_resources 导入/实现失败
+appearance_style         0     1      缺pkg_resources 导入/实现失败
+background_consistency   0     1      缺pkg_resources 导入/实现失败
+color                    0     0      Azure模型不可公开访问
+dynamic_degree           0     1     Traceback需看完整日志
+human_action             0     0      HuggingFace下载超时 下载失败
+imaging_quality          0     1      缺pkg_resources 导入/实现失败
+motion_smoothness        0     0      HuggingFace下载超时 下载失败
+multiple_objects         0     0      Azure模型不可公开访问
+object_class             0     0      Azure模型不可公开访问
+overall_consistency      0     0      HuggingFace下载超时 下载失败
+scene                    0     0      HuggingFace下载超时 下载失败
+spatial_relationship     0     0      Azure模型不可公开访问
+subject_consistency      0     1      GitHub限流
+temporal_flickering      1     1     已完成
+temporal_style           0     0      HuggingFace下载超时 下载失败
+标准命名真实视频副本：944 个
+
+修正后的最终整理/评测结束：2026-07-07 07:30:58.010843062 +0800

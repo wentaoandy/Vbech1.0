@@ -1,0 +1,328 @@
+--2026-07-07 07:18:59--  https://dl.dropboxusercontent.com/s/4j4z58wuv8o0mfz/models.zip
+Resolving dl.dropboxusercontent.com (dl.dropboxusercontent.com)... 128.242.240.157, 2a03:2880:f10f:83:face:b00c:0:25de
+Connecting to dl.dropboxusercontent.com (dl.dropboxusercontent.com)|128.242.240.157|:443... failed: Connection timed out.
+Connecting to dl.dropboxusercontent.com (dl.dropboxusercontent.com)|2a03:2880:f10f:83:face:b00c:0:25de|:443... failed: Network is unreachable.
+[rank0]:[W707 07:21:16.167941107 ProcessGroupNCCL.cpp:4115] [PG ID 0 PG GUID 0 Rank 0]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+args: Namespace(output_path='/data/zengxin/zwt/face_study/outputs/official_vbench_v1_consisid/consisid_official_vbench_v1_single_20260705_155651/evaluation/dynamic_degree', full_json_dir='/data/zengxin/zwt/external/VBench-v1/vbench/VBench_full_info.json', videos_path='/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names', dimension=['dynamic_degree'], load_ckpt_from_local=None, read_frame=None, mode='vbench_standard', prompt='None', prompt_file=None, category=None, imaging_quality_preprocessing_mode='longer')
+start evaluation
+File /home/zengxin/.cache/vbench/raft_model/models/raft-things.pth does not exist. Downloading...
+Error during downloading RAFT model: Command '['wget', '-P', '/home/zengxin/.cache/vbench/raft_model/', 'https://dl.dropboxusercontent.com/s/4j4z58wuv8o0mfz/models.zip']' returned non-zero exit status 4.
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person swimming in ocean-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person swimming in ocean-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person swimming in ocean-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person swimming in ocean-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person giving a presentation to a room full of colleagues-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person giving a presentation to a room full of colleagues-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person giving a presentation to a room full of colleagues-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person giving a presentation to a room full of colleagues-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person washing the dishes-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person washing the dishes-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person washing the dishes-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person washing the dishes-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person eating a burger-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person eating a burger-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person eating a burger-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person eating a burger-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person walking in the snowstorm-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person walking in the snowstorm-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person walking in the snowstorm-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person walking in the snowstorm-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person drinking coffee in a cafe-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person drinking coffee in a cafe-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person drinking coffee in a cafe-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person drinking coffee in a cafe-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person playing guitar-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person playing guitar-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person playing guitar-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a person playing guitar-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bicycle leaning against a tree-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bicycle leaning against a tree-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bicycle leaning against a tree-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bicycle leaning against a tree-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bicycle gliding through a snowy field-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bicycle gliding through a snowy field-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bicycle gliding through a snowy field-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bicycle gliding through a snowy field-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bicycle slowing down to stop-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bicycle slowing down to stop-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bicycle slowing down to stop-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bicycle slowing down to stop-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bicycle accelerating to gain speed-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bicycle accelerating to gain speed-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bicycle accelerating to gain speed-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bicycle accelerating to gain speed-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a car stuck in traffic during rush hour-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a car stuck in traffic during rush hour-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a car stuck in traffic during rush hour-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a car stuck in traffic during rush hour-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a car turning a corner-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a car turning a corner-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a car turning a corner-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a car turning a corner-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a car slowing down to stop-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a car slowing down to stop-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a car slowing down to stop-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a car slowing down to stop-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a car accelerating to gain speed-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a car accelerating to gain speed-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a car accelerating to gain speed-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a car accelerating to gain speed-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a motorcycle cruising along a coastal highway-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a motorcycle cruising along a coastal highway-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a motorcycle cruising along a coastal highway-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a motorcycle cruising along a coastal highway-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a motorcycle turning a corner-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a motorcycle turning a corner-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a motorcycle turning a corner-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a motorcycle turning a corner-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a motorcycle slowing down to stop-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a motorcycle slowing down to stop-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a motorcycle slowing down to stop-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a motorcycle slowing down to stop-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a motorcycle gliding through a snowy field-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a motorcycle gliding through a snowy field-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a motorcycle gliding through a snowy field-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a motorcycle gliding through a snowy field-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a motorcycle accelerating to gain speed-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a motorcycle accelerating to gain speed-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a motorcycle accelerating to gain speed-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a motorcycle accelerating to gain speed-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an airplane soaring through a clear blue sky-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an airplane soaring through a clear blue sky-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an airplane soaring through a clear blue sky-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an airplane soaring through a clear blue sky-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an airplane taking off-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an airplane taking off-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an airplane taking off-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an airplane taking off-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an airplane landing smoothly on a runway-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an airplane landing smoothly on a runway-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an airplane landing smoothly on a runway-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an airplane landing smoothly on a runway-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an airplane accelerating to gain speed-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an airplane accelerating to gain speed-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an airplane accelerating to gain speed-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an airplane accelerating to gain speed-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bus turning a corner-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bus turning a corner-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bus turning a corner-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bus turning a corner-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bus stuck in traffic during rush hour-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bus stuck in traffic during rush hour-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bus stuck in traffic during rush hour-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bus stuck in traffic during rush hour-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bus accelerating to gain speed-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bus accelerating to gain speed-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bus accelerating to gain speed-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bus accelerating to gain speed-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a train speeding down the tracks-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a train speeding down the tracks-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a train speeding down the tracks-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a train speeding down the tracks-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a train crossing over a tall bridge-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a train crossing over a tall bridge-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a train crossing over a tall bridge-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a train crossing over a tall bridge-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a train accelerating to gain speed-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a train accelerating to gain speed-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a train accelerating to gain speed-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a train accelerating to gain speed-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a truck turning a corner-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a truck turning a corner-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a truck turning a corner-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a truck turning a corner-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a truck anchored in a tranquil bay-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a truck anchored in a tranquil bay-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a truck anchored in a tranquil bay-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a truck anchored in a tranquil bay-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a truck stuck in traffic during rush hour-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a truck stuck in traffic during rush hour-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a truck stuck in traffic during rush hour-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a truck stuck in traffic during rush hour-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a truck slowing down to stop-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a truck slowing down to stop-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a truck slowing down to stop-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a truck slowing down to stop-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a truck accelerating to gain speed-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a truck accelerating to gain speed-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a truck accelerating to gain speed-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a truck accelerating to gain speed-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a boat sailing smoothly on a calm lake-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a boat sailing smoothly on a calm lake-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a boat sailing smoothly on a calm lake-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a boat sailing smoothly on a calm lake-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a boat slowing down to stop-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a boat slowing down to stop-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a boat slowing down to stop-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a boat slowing down to stop-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a boat accelerating to gain speed-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a boat accelerating to gain speed-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a boat accelerating to gain speed-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a boat accelerating to gain speed-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bird soaring gracefully in the sky-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bird soaring gracefully in the sky-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bird soaring gracefully in the sky-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bird soaring gracefully in the sky-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bird building a nest from twigs and leaves-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bird building a nest from twigs and leaves-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bird building a nest from twigs and leaves-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bird building a nest from twigs and leaves-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bird flying over a snowy forest-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bird flying over a snowy forest-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bird flying over a snowy forest-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bird flying over a snowy forest-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cat grooming itself meticulously with its tongue-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cat grooming itself meticulously with its tongue-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cat grooming itself meticulously with its tongue-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cat grooming itself meticulously with its tongue-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cat playing in park-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cat playing in park-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cat playing in park-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cat playing in park-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cat drinking water-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cat drinking water-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cat drinking water-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cat drinking water-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cat running happily-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cat running happily-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cat running happily-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cat running happily-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a dog enjoying a peaceful walk-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a dog enjoying a peaceful walk-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a dog enjoying a peaceful walk-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a dog enjoying a peaceful walk-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a dog playing in park-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a dog playing in park-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a dog playing in park-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a dog playing in park-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a dog drinking water-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a dog drinking water-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a dog drinking water-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a dog drinking water-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a dog running happily-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a dog running happily-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a dog running happily-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a dog running happily-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a horse bending down to drink water from a river-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a horse bending down to drink water from a river-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a horse bending down to drink water from a river-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a horse bending down to drink water from a river-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a horse galloping across an open field-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a horse galloping across an open field-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a horse galloping across an open field-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a horse galloping across an open field-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a horse taking a peaceful walk-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a horse taking a peaceful walk-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a horse taking a peaceful walk-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a horse taking a peaceful walk-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a horse running to join a herd of its kind-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a horse running to join a herd of its kind-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a horse running to join a herd of its kind-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a horse running to join a herd of its kind-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a sheep bending down to drink water from a river-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a sheep bending down to drink water from a river-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a sheep bending down to drink water from a river-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a sheep bending down to drink water from a river-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a sheep taking a peaceful walk-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a sheep taking a peaceful walk-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a sheep taking a peaceful walk-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a sheep taking a peaceful walk-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a sheep running to join a herd of its kind-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a sheep running to join a herd of its kind-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a sheep running to join a herd of its kind-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a sheep running to join a herd of its kind-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cow bending down to drink water from a river-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cow bending down to drink water from a river-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cow bending down to drink water from a river-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cow bending down to drink water from a river-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cow chewing cud while resting in a tranquil barn-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cow chewing cud while resting in a tranquil barn-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cow chewing cud while resting in a tranquil barn-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cow chewing cud while resting in a tranquil barn-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cow running to join a herd of its kind-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cow running to join a herd of its kind-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cow running to join a herd of its kind-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a cow running to join a herd of its kind-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an elephant spraying itself with water using its trunk to cool down-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an elephant spraying itself with water using its trunk to cool down-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an elephant spraying itself with water using its trunk to cool down-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an elephant spraying itself with water using its trunk to cool down-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an elephant taking a peaceful walk-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an elephant taking a peaceful walk-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an elephant taking a peaceful walk-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an elephant taking a peaceful walk-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an elephant running to join a herd of its kind-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an elephant running to join a herd of its kind-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an elephant running to join a herd of its kind-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: an elephant running to join a herd of its kind-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bear catching a salmon in its powerful jaws-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bear catching a salmon in its powerful jaws-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bear catching a salmon in its powerful jaws-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bear catching a salmon in its powerful jaws-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bear sniffing the air for scents of food-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bear sniffing the air for scents of food-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bear sniffing the air for scents of food-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bear sniffing the air for scents of food-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bear climbing a tree-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bear climbing a tree-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bear climbing a tree-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bear climbing a tree-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bear hunting for prey-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bear hunting for prey-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bear hunting for prey-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a bear hunting for prey-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a zebra bending down to drink water from a river-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a zebra bending down to drink water from a river-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a zebra bending down to drink water from a river-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a zebra bending down to drink water from a river-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a zebra running to join a herd of its kind-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a zebra running to join a herd of its kind-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a zebra running to join a herd of its kind-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a zebra running to join a herd of its kind-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a zebra taking a peaceful walk-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a zebra taking a peaceful walk-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a zebra taking a peaceful walk-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a zebra taking a peaceful walk-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a giraffe bending down to drink water from a river-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a giraffe bending down to drink water from a river-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a giraffe bending down to drink water from a river-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a giraffe bending down to drink water from a river-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a giraffe taking a peaceful walk-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a giraffe taking a peaceful walk-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a giraffe taking a peaceful walk-3.mp4/data/zengxin/zwt/external/VBench-v1/vbench/dynamic_degree.py:35: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  ckpt = torch.load(self.args.model, map_location="cpu")
+
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a giraffe taking a peaceful walk-4.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a giraffe running to join a herd of its kind-1.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a giraffe running to join a herd of its kind-2.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a giraffe running to join a herd of its kind-3.mp4
+WARNING!!! This required video is not found! Missing benchmark videos can lead to unfair evaluation result. The missing video is: a giraffe running to join a herd of its kind-4.mp4
+Evaluation meta data saved to /data/zengxin/zwt/face_study/outputs/official_vbench_v1_consisid/consisid_official_vbench_v1_single_20260705_155651/evaluation/dynamic_degree/results_2026-07-07-07:18:59_full_info.json
+cur_full_info_path: /data/zengxin/zwt/face_study/outputs/official_vbench_v1_consisid/consisid_official_vbench_v1_single_20260705_155651/evaluation/dynamic_degree/results_2026-07-07-07:18:59_full_info.json
+[rank0]: Traceback (most recent call last):
+[rank0]:   File "/data/zengxin/zwt/external/VBench-v1/evaluate.py", line 153, in <module>
+[rank0]:     main()
+[rank0]:   File "/data/zengxin/zwt/external/VBench-v1/evaluate.py", line 139, in main
+[rank0]:     my_VBench.evaluate(
+[rank0]:   File "/data/zengxin/zwt/external/VBench-v1/vbench/__init__.py", line 153, in evaluate
+[rank0]:     results = evaluate_func(cur_full_info_path, self.device, submodules_list, **kwargs)
+[rank0]:               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/data/zengxin/zwt/external/VBench-v1/vbench/dynamic_degree.py", line 157, in compute_dynamic_degree
+[rank0]:     dynamic = DynamicDegree(args_new, device)
+[rank0]:               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/data/zengxin/zwt/external/VBench-v1/vbench/dynamic_degree.py", line 30, in __init__
+[rank0]:     self.load_model()
+[rank0]:   File "/data/zengxin/zwt/external/VBench-v1/vbench/dynamic_degree.py", line 35, in load_model
+[rank0]:     ckpt = torch.load(self.args.model, map_location="cpu")
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/data/zengxin/zwt/conda_envs/face_consisid/lib/python3.11/site-packages/torch/serialization.py", line 1319, in load
+[rank0]:     with _open_file_like(f, "rb") as opened_file:
+[rank0]:          ^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/data/zengxin/zwt/conda_envs/face_consisid/lib/python3.11/site-packages/torch/serialization.py", line 659, in _open_file_like
+[rank0]:     return _open_file(name_or_buffer, mode)
+[rank0]:            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[rank0]:   File "/data/zengxin/zwt/conda_envs/face_consisid/lib/python3.11/site-packages/torch/serialization.py", line 640, in __init__
+[rank0]:     super().__init__(open(name, mode))
+[rank0]:                      ^^^^^^^^^^^^^^^^
+[rank0]: FileNotFoundError: [Errno 2] No such file or directory: '/home/zengxin/.cache/vbench/raft_model/models/raft-things.pth'
+[rank0]:[W707 07:21:16.077529500 ProcessGroupNCCL.cpp:1250] Warning: WARNING: process group has NOT been destroyed before we destruct ProcessGroupNCCL. On normal program exit, the application should call destroy_process_group to ensure that any pending NCCL operations have finished in this process. In rare cases this process can exit before this point and block the progress of another member of the process group. This constraint has always been present,  but this warning has only been added since PyTorch 2.4 (function operator())

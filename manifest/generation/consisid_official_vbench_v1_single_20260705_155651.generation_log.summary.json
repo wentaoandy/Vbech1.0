@@ -1,0 +1,11 @@
+{
+  "run_ids": [
+    "consisid_official_vbench_v1_single_20260705_155651_shard01",
+    "consisid_official_vbench_v1_single_20260705_155651_shard02"
+  ],
+  "manifest_rows": 944,
+  "generation_log_rows": 944,
+  "missing_files": [],
+  "output_manifest": "data/manifests/consisid_official_vbench_v1_single_20260705_155651.csv",
+  "output_generation_log": "data/manifests/consisid_official_vbench_v1_single_20260705_155651.generation_log.csv"
+}

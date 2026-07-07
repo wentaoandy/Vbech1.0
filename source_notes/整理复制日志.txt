@@ -1,0 +1,14 @@
+﻿整理版生成说明
+
+源目录：B:\vbench_current_official_consisid_v1\files
+目标目录：B:\vbench_整理版
+整理方式：复制，不移动、不删除旧目录。
+
+关键处理：
+- VBench-v1 官方代码保留仓库原始结构。
+- vbench_v1 环境目录压缩保存，不展开。
+- shard01/shard02 视频扁平复制到浅层目录。
+- 官方标准命名视频由 generation_log.csv 重新生成，不依赖旧目录中的链接/伪文件。
+- std官方名 保留 Windows 可落盘的官方名，共 943 个。
+- std安全名_944 使用 prompt_id 安全命名，共 944 个，推荐本地核验使用。
+- 评测 JSON 扁平化并加维度前缀，便于 AI 搜索和分析。

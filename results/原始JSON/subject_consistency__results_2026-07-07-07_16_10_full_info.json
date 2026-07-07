@@ -1,0 +1,794 @@
+[
+    {
+        "prompt_en": "a person swimming in ocean",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a person swimming in ocean-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a person giving a presentation to a room full of colleagues",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a person giving a presentation to a room full of colleagues-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a person washing the dishes",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a person washing the dishes-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a person eating a burger",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a person eating a burger-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a person walking in the snowstorm",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a person walking in the snowstorm-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a person drinking coffee in a cafe",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a person drinking coffee in a cafe-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a person playing guitar",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a person playing guitar-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bicycle leaning against a tree",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a bicycle leaning against a tree-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bicycle gliding through a snowy field",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a bicycle gliding through a snowy field-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bicycle slowing down to stop",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a bicycle slowing down to stop-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bicycle accelerating to gain speed",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a bicycle accelerating to gain speed-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a car stuck in traffic during rush hour",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a car stuck in traffic during rush hour-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a car turning a corner",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a car turning a corner-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a car slowing down to stop",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a car slowing down to stop-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a car accelerating to gain speed",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a car accelerating to gain speed-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a motorcycle cruising along a coastal highway",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a motorcycle cruising along a coastal highway-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a motorcycle turning a corner",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a motorcycle turning a corner-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a motorcycle slowing down to stop",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a motorcycle slowing down to stop-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a motorcycle gliding through a snowy field",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a motorcycle gliding through a snowy field-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a motorcycle accelerating to gain speed",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a motorcycle accelerating to gain speed-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an airplane soaring through a clear blue sky",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/an airplane soaring through a clear blue sky-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an airplane taking off",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/an airplane taking off-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an airplane landing smoothly on a runway",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/an airplane landing smoothly on a runway-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an airplane accelerating to gain speed",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/an airplane accelerating to gain speed-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bus turning a corner",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a bus turning a corner-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bus stuck in traffic during rush hour",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a bus stuck in traffic during rush hour-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bus accelerating to gain speed",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a bus accelerating to gain speed-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a train speeding down the tracks",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a train speeding down the tracks-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a train crossing over a tall bridge",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a train crossing over a tall bridge-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a train accelerating to gain speed",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a train accelerating to gain speed-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a truck turning a corner",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a truck turning a corner-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a truck anchored in a tranquil bay",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a truck anchored in a tranquil bay-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a truck stuck in traffic during rush hour",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a truck stuck in traffic during rush hour-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a truck slowing down to stop",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a truck slowing down to stop-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a truck accelerating to gain speed",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a truck accelerating to gain speed-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a boat sailing smoothly on a calm lake",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a boat sailing smoothly on a calm lake-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a boat slowing down to stop",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a boat slowing down to stop-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a boat accelerating to gain speed",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a boat accelerating to gain speed-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bird soaring gracefully in the sky",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a bird soaring gracefully in the sky-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bird building a nest from twigs and leaves",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a bird building a nest from twigs and leaves-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bird flying over a snowy forest",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a bird flying over a snowy forest-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a cat grooming itself meticulously with its tongue",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a cat grooming itself meticulously with its tongue-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a cat playing in park",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a cat playing in park-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a cat drinking water",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a cat drinking water-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a cat running happily",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a cat running happily-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a dog enjoying a peaceful walk",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a dog enjoying a peaceful walk-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a dog playing in park",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a dog playing in park-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a dog drinking water",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a dog drinking water-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a dog running happily",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a dog running happily-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a horse bending down to drink water from a river",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a horse bending down to drink water from a river-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a horse galloping across an open field",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a horse galloping across an open field-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a horse taking a peaceful walk",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a horse taking a peaceful walk-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a horse running to join a herd of its kind",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a horse running to join a herd of its kind-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a sheep bending down to drink water from a river",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a sheep bending down to drink water from a river-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a sheep taking a peaceful walk",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a sheep taking a peaceful walk-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a sheep running to join a herd of its kind",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a sheep running to join a herd of its kind-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a cow bending down to drink water from a river",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a cow bending down to drink water from a river-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a cow chewing cud while resting in a tranquil barn",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a cow chewing cud while resting in a tranquil barn-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a cow running to join a herd of its kind",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a cow running to join a herd of its kind-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an elephant spraying itself with water using its trunk to cool down",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/an elephant spraying itself with water using its trunk to cool down-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an elephant taking a peaceful walk",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/an elephant taking a peaceful walk-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "an elephant running to join a herd of its kind",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/an elephant running to join a herd of its kind-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bear catching a salmon in its powerful jaws",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a bear catching a salmon in its powerful jaws-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bear sniffing the air for scents of food",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a bear sniffing the air for scents of food-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bear climbing a tree",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a bear climbing a tree-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a bear hunting for prey",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a bear hunting for prey-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a zebra bending down to drink water from a river",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a zebra bending down to drink water from a river-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a zebra running to join a herd of its kind",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a zebra running to join a herd of its kind-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a zebra taking a peaceful walk",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a zebra taking a peaceful walk-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a giraffe bending down to drink water from a river",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a giraffe bending down to drink water from a river-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a giraffe taking a peaceful walk",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a giraffe taking a peaceful walk-0.mp4"
+        ]
+    },
+    {
+        "prompt_en": "a giraffe running to join a herd of its kind",
+        "dimension": [
+            "subject_consistency",
+            "dynamic_degree",
+            "motion_smoothness"
+        ],
+        "video_list": [
+            "/data/zengxin/zwt/face_study/data/generated_official_vbench/consisid_official_vbench_v1_single_20260705_155651_standard_names/a giraffe running to join a herd of its kind-0.mp4"
+        ]
+    }
+]
